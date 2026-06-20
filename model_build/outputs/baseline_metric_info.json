@@ -1,0 +1,7 @@
+{
+    "status_evaluasi": "Sukses Baseline",
+    "jumlah_data_testing": 1000,
+    "baseline_accuracy": 0.645,
+    "baseline_precision": 0.2054794520547945,
+    "baseline_recall": 0.04807692307692308
+}
